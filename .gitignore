@@ -1,36 +1,9 @@
 # Consulte http://help.github.com/ignore-files/ para saber mais sobre como ignorar arquivos. 
 
-# Saída compilada
-fontend/dist 
-fontend/tmp 
-fontend/out-tsc 
-# Só existe se o Bazel foi executado
-fontend/bazel-out 
+
 
 # Dependências
 fontend/node_modules 
-
-# Cordova
-fontend/www 
-fontend/plugins 
-fontend/platforms 
-
-# Electron
-fontend/dist-electron 
-fontend/dist-packages 
-fontend/electron.main.js 
-
-# IDEs e editores
- .idea/* 
-!.idea/runConfigurations/ 
-!.idea/codeStyleSettings.xml 
-.project 
-.classpath 
-.c9/ 
-*.launch 
-.settings/ 
-xcuserdata/ 
-*.sublime-workspace 
 
 # IDE - VSCode
  .vscode/* 
