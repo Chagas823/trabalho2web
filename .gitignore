@@ -5,11 +5,7 @@
 # Dependências
 fontend/node_modules 
 
-# IDE - VSCode
- .vscode/* 
-fontend/.vscode/settings.json
-!.vscode/tasks.json 
-!.vscode/launch.json 
+
 !.vscode/extensions.json 
 
 #SPRING BOOT
